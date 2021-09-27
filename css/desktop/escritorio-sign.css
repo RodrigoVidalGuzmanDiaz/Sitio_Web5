@@ -1,8 +1,11 @@
+.Sign-background{
+    height: 100vh;
+}
 .formulario-login {
     margin-top: -2rem;
     background-color: white;
     margin-left: -6rem;
-    border-radius: 4rem 4rem 0rem 0rem;
+    border-radius: 4rem 4rem 4rem 4rem;
     width: 53rem;
     
 }
