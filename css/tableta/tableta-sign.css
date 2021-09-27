@@ -1,4 +1,37 @@
+.Sign-background{
+    height: 100vh;
+}
 .formulario-login{
     margin-top: -2rem;
     border-radius: 4rem 4rem 3rem 3rem;
+}
+.formulario-login {
+    width: 46rem;
+}
+.informaciónG {
+    width: 30rem;
+    margin-top: 3rem;
+    display: flex;
+    flex-direction: column;
+    width: 35rem;
+}
+.formulario-login {
+    margin-left: -4rem;
+}
+.banner-login img {
+    align-self: flex-start;
+    margin-left: -5rem;
+}
+.banner-login h4 {
+    color: #fff;
+    font-size: 1.5rem;
+    font-weight: 300;
+    margin-left: -3rem;
+    margin-top: -2rem;
+}
+.banner-login div {
+    margin-right: -4rem;
+}
+.formulario-login .datos {
+    width: 39rem;
 }
