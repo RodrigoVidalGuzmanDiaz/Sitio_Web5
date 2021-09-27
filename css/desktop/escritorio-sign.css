@@ -1,3 +1,41 @@
-.formulario-login{
-    border-radius: 4rem 4rem 3rem 3rem;
+.formulario-login {
+    margin-top: -2rem;
+    background-color: white;
+    margin-left: -6rem;
+    border-radius: 4rem 4rem 0rem 0rem;
+    width: 53rem;
+    
+}
+.informaciónG {
+    width: 46rem;
+    margin-top: 3rem;
+    display: flex;
+    flex-direction: column;
+}
+.formulario-login .datos {
+    width: 46.9rem;
+    height: 10rem;
+}
+.formulario-login .titulo {
+    font-size: 3rem;
+}
+.formulario-login .titulo2 {
+    font-size: 1.6rem;
+}
+.formulario-login .camara {
+    width: 3rem;
+    height: 3rem;
+}
+
+
+.banner-login h4 {
+    margin-left: -6rem;
+}
+.banner-login img {
+    margin-left: -8rem;
+}
+.banner-login div {
+    width: 8rem;
+    
+    margin-right: -11rem;
 }
